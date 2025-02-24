@@ -4,11 +4,9 @@
 
 ***Hello!!!***
 
-I'm a technology student fascinated by programming and AI
-
 **About me**
 
-- 🎓 Technology Student | Strong Communication & Teamwork Skills 💬🤝
+- 🎓 Technology Student fascinated by programming and AI 🤖
 
 - 🚀 Automatic Admission to ADS via the AMS Model, with future plans for Software Engineering 🎯👨‍💻
 
