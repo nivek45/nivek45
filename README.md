@@ -10,20 +10,6 @@
 
 - 🚀 Automatic Admission to ADS via the AMS Model, with future plans for Software Engineering 🎯👨‍💻
 
-**🛠 Technical Skills**
-
--  Back-End: PHP, Python, and C# ⚙️💻
-
-- 🎨 Front-End: HTML, CSS, JavaScript & Bootstrap 🌐✨
-
-- 🗄 Databases: MySQL & SQL Server 📊🔍
-
-- 📱 Mobile Development: .NET MAUI 📲🚀
-
-- 🖥 Office Tools: Microsoft Office Suite 📝📊
-
-- ⚙️ Operating Systems: Windows & Linux 🖥🐧
-
 - 💬 Ask me about anything [here]
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
