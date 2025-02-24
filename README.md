@@ -48,7 +48,7 @@ I'm a Technology student
 <a href="">
   <img height=200  src="https://github-readme-stats.vercel.app/api?username=nivek45&show_icons=true&theme=shadow_red&rank_icon=github&text_color=d0d0d1&bg_color=000000"/></a>
 <a href="">
-  <img height=200 style="margin-left:50px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivek45&layout=donut&theme=shadow_red&bg_color=000000&text_color=d0d0d1" />
+  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivek45&layout=donut&theme=shadow_red&bg_color=000000&text_color=d0d0d1" />
 </a>
 
 #### Top Repositories
