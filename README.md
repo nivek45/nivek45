@@ -25,7 +25,7 @@
   
 
 
-[![Ashutosh's github activity graph](&bg_color=000000&color=8b0000&line=d0d0d1&point=d0d0d1&area=true&hide_border=true&area_color=c2c2c2)](https://github.com/nivek45/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nivek45&bg_color=000000&color=8b0000&line=d0d0d1&point=d0d0d1&area=true&hide_border=true&area_color=c2c2c2)](https://github.com/nivek45/github-readme-activity-graph)
 
 <a href="">
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=nivek45&show_icons=true&theme=shadow_red&rank_icon=github&text_color=d0d0d1&bg_color=000000"/></a>
