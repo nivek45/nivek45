@@ -1,10 +1,10 @@
-<p align="center"><a href="https://github.com/nivek45"><img width="90%" height= 150px alt="Hello, I'm Kevin." src="assets/vipp.png" /></a></p>
+<p align="center"><a href="https://github.com/nivek45"><img width="80%" height= 150px alt="Hello, I'm Kevin." src="assets/vipp.png" /></a></p>
 
 <br />
 
 ***Hello!!!***
 
-I'm a Technology student with strong communication and teamwork skills
+I'm a Technology student
 
 **About me**
 
