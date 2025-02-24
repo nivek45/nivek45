@@ -4,7 +4,7 @@
 
 ***Hello!!!***
 
-I'm a Technology student with strong communication and teamwork skills
+I'm a technology student fascinated by programming and AI
 
 **About me**
 
