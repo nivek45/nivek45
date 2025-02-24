@@ -44,7 +44,7 @@ I'm a Technology student with strong communication and teamwork skills
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nivek45&bg_color=000000&color=8b0000&line=d0d0d1&point=d0d0d1&area=true&hide_border=true&area_color=c2c2c2)](https://github.com/nivek45/github-readme-activity-graph)
 
 <a>
-  <img height=200 width=460px src="https://github-readme-stats.vercel.app/api?username=nivek45&show_icons=true&theme=shadow_red&rank_icon=github&text_color=d0d0d1&bg_color=000000"/></a>
+  <img height=200 width=360px src="https://github-readme-stats.vercel.app/api?username=nivek45&show_icons=true&theme=shadow_red&rank_icon=github&text_color=d0d0d1&bg_color=000000"/></a>
 <a href="">
   <img height=200 width=320px src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivek45&layout=donut&theme=shadow_red&bg_color=000000&text_color=d0d0d1" />
 </a>
