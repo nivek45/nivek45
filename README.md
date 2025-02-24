@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/nivek45"><img width="750px" height= 140px alt="Hello, I'm Kevin." src="assets/kevingoat.gif" /></a></p>
+<p align="center"><a href="https://github.com/nivek45"><img width="750px" height= 150px alt="Hello, I'm Kevin." src="assets/kevingoat.gif" /></a></p>
 
 <br />
 
