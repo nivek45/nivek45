@@ -1,10 +1,10 @@
-<p align="center"><a href="https://github.com/nivek45"><img width="80%" height= 150px alt="Hello, I'm Kevin." src="assets/vipp.png" /></a></p>
+<p align="center"><a href="https://github.com/nivek45"><img width="500px" height= 130px alt="Hello, I'm Kevin." src="assets/kevin-498-x-132-gif-j3njdip1kbpc5k77.gif" /></a></p>
 
 <br />
 
 ***Hello!!!***
 
-I'm a Technology student
+I'm a Technology student with strong communication and teamwork skills
 
 **About me**
 
@@ -45,7 +45,7 @@ I'm a Technology student
 
 
 
-<a href="">
+<a>
   <img height=200  src="https://github-readme-stats.vercel.app/api?username=nivek45&show_icons=true&theme=shadow_red&rank_icon=github&text_color=d0d0d1&bg_color=000000"/></a>
 <a href="">
   <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivek45&layout=donut&theme=shadow_red&bg_color=000000&text_color=d0d0d1" />
